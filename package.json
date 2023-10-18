@@ -1,6 +1,6 @@
 {
   "name": "to-make-app",
-  "homepage": "https://mps2209.github.io/tomakeapp/",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
